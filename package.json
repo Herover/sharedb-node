@@ -1,0 +1,22 @@
+{
+  "name": "sharedb-json",
+  "version": "1.0.0",
+  "description": "ShareDB backend using flat json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herover/sharedb-node.git"
+  },
+  "author": "Herover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herover/sharedb-node/issues"
+  },
+  "homepage": "https://github.com/Herover/sharedb-node#readme",
+  "dependencies": {
+    "sharedb": "^5.0.0"
+  }
+}
